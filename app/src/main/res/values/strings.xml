@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">05.1.buttons_similar_widget</string>
+    <string name="textOn_red">Red</string>
+    <string name="textOn_blue">Blue</string>
+    <string name="textOn_yellow">Yellow</string>
+    <string name="textOff_blue">Un Blue</string>
+    <string name="textOff_red">Un Red</string>
+    <string name="textOff_yellow">Un Yellow</string>
+    <string name="choose">Choose Above</string>
+</resources>
